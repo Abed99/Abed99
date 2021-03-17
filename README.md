@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abed Alsalam
+- 👋 Hi, I’m Abed Alsalam
 - 👀 I’m interested in Everything related to programming
 - 🌱 I’m currently A first-year university student (Computer Engineering)
 - 🌱 I’m currently learning C & C++
